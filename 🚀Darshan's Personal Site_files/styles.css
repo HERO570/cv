@@ -1,0 +1,39 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+
+.hero p{
+    color: red;
+    text-align: center;
+    justify-content: space-between;
+}
+
+
+.hero h1{
+    color: red;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.hero h1:hover{
+    color: blue;
+}
+
+.hero h3{
+    color: red;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.hero li{
+    color: red;
+    text-align: none;
+    justify-content: space-between;
+}
+
+.hero img:hover{
+    color: blue;
+    height: 800px;
+    width: 800px;
+}
